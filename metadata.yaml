@@ -1,0 +1,29 @@
+_repo: Problems-in-Greek-history_36354
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mahaffy, J. P. (John Pentland)
+    alias: Mahaffy, John Pentland
+    birthdate: 1839
+    deathdate: 1919
+    gutenberg_agent_id: '37584'
+    url: http://www.gutenberg.org/2009/agents/37584
+description: ''
+gutenberg_issued: '2011-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36354'
+  lccn: '01010135'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Greece -- History'
+- !lcsh 'Greece -- Historiography'
+title: Problems in Greek history
+url: http://www.gutenberg.org/ebooks/36354
